@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class FlipString {
 	
 	public ArrayList<String> solution(int n, String[] str){
+		
 		ArrayList<String> answer=new ArrayList<>(); 
 		
 		for(String x : str){
