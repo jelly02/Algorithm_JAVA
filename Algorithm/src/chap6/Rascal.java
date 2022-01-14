@@ -1,5 +1,9 @@
 package chap6;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Scanner;
+
 public class Rascal {
 	public ArrayList<Integer> solution(int n, int[] arr){
 		ArrayList<Integer> answer=new ArrayList<>();
